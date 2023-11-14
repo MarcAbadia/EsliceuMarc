@@ -1,10 +1,11 @@
-[sistemas](sistemas/processos)
-[redes](redes)
-[montaje](montaje)
-[ofimàtica](ofimatica)
-[fol](fol)
-[datos](datos)
-# hola
+# Carpetas:
+##### [Sistemas](sistemas/processos)
+#### [Redes](redes)
+#### [Montaje](montaje)
+#### [Ofimàtica](ofimatica)
+#### [Fol](fol)
+#### [Datos](datos)
+# Tipografia:
 ## hola
 ### hola
 #### hola
@@ -14,5 +15,5 @@
 2. tomate
     1. tomate cherry
     2. tomate rancio
-*cursiva*
-**negrita**
+
+*cursiva* y **negrita**
