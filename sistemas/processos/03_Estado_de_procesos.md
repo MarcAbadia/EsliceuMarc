@@ -1,7 +1,7 @@
 # Estado de procesos
 ## Introducción
 La gestión de procesos implica el seguimiento y control de los distintos estados por los que pasa un proceso durante su ejecución en un sistema operativo. Estos estados representan diferentes situaciones en las que puede encontrarse un proceso, y su comprensión es esencial para optimizar la utilización de recursos del sistema. A continuación, se describen los principales estados de procesos:
-## 4.1 Análisis de Estados (Listo, En Ejecución, Bloqueado)
+## 3.1 Análisis de Estados (Listo, En Ejecución, Bloqueado)
 ### Listo (Ready): 
 El proceso está preparado para ejecutarse, pero la CPU aún no le ha sido asignada. Se encuentra en espera en la cola de procesos listos y es elegible para ejecutarse.
 ### En Ejecución (Running): 
