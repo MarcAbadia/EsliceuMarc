@@ -1,4 +1,4 @@
-# 3. Planificación de Procesos
+# Planificación de Procesos
 ## Introducción
 La planificación de procesos es un componente esencial de los sistemas operativos que busca optimizar la ejecución de programas y recursos del sistema. Este proceso implica la toma de decisiones sobre qué proceso ejecutar en un momento dado y cómo asignar recursos para maximizar la eficiencia global del sistema. A continuación, se exploran aspectos clave relacionados con la planificación de procesos:
 ## 3.1 Significado y Relevancia
